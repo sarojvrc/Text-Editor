@@ -2,7 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 <h1>🧐 Why this Project</h1>
 <br />
-This is a Simple Text Editor like your Notepad or MS Word in Computer. Using this app you can edit some documents, increse decrese the size of the font, can change the text color, 
+This is a Simple Text Editor like your Notepad or MS Word in Computer. Using this app you can edit some documents, increase decrease the size of the font, can change the text color, 
 insert an link, can put a line etc.
 
 <h2>Landing Page<h2>
