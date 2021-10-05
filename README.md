@@ -11,7 +11,7 @@ insert an link, can put a line etc.
   
 <h1>🌟 Live link</h1>
   
-  [See live project here](https://weatherapp-mini-project.netlify.app/)
+  [See live project here](https://simple-texteditor.netlify.app/)
   
 <h1>👨‍💻 Tech stack</h1>
 
